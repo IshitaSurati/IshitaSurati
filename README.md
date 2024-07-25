@@ -1,6 +1,7 @@
 # 🌟 Welcome to My GitHub Profile!
 
-![Banner Image](https://camo.githubusercontent.com/53bbded0cd52cfb76da9566070365f68c901c7580221db748af6c44897de057b/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032342f3835382f3639392f6f726967696e616c2f706978656c2d6a6566662d6469766f6f6d2e6769663f31353833373731393034) 
+<img src="(https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)" alt="Banner Image" width="800" height="200"> <!-- Adjust the width and height as needed -->
+
 
 ### Hi there, I'm Ishita Surati! 👋
 
