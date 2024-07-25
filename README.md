@@ -1,6 +1,6 @@
 # 🌟 Welcome to My GitHub Profile!
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner Image" width="400" height="400"> <!-- Adjust the width and height as needed -->
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner Image" width="700" height="400"> <!-- Adjust the width and height as needed -->
 
 
 ### Hi there, I'm Ishita Surati! 👋
