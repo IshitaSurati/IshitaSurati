@@ -18,6 +18,5 @@ I'm a passionate Diploma Computer Engineer and FullStack Developer with a keen i
 </div>
 
 ---
-### 🌐 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/ishita-surati/)
-- [Portfolio](https://ishitasurati.dev)
+
+
